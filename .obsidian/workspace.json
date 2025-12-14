@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "58bc15e648a54a7b",
+        "id": "7b5a64790ff83cec",
         "type": "tabs",
         "children": [
           {
-            "id": "82a41bb8c776e4fe",
+            "id": "f6d4e4ffa9ca4ba7",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -189,7 +189,7 @@
       "obsidian-day-planner:Open Multi-Day View": false
     }
   },
-  "active": "82a41bb8c776e4fe",
+  "active": "f6d4e4ffa9ca4ba7",
   "lastOpenFiles": [
     "Docker/Docker.md",
     "Docker",
